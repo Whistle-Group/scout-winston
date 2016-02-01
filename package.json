@@ -1,6 +1,6 @@
 {
   "name": "scout-winston",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A tiny custom configuration module around Winston logger",
   "main": "lib/index.js",
   "directories": {

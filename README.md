@@ -66,4 +66,5 @@ Log levels are [Winston's default](https://github.com/winstonjs/winston#logging-
 
 ## Changelog
 
+* 0.2.0 - Change Array.includes from a prototype to a helper function due to weird behaviour with Lodash
 * 0.1.0 - Initial release
