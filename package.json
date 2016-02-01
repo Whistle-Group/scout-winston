@@ -1,0 +1,28 @@
+{
+  "name": "scout-winston",
+  "version": "0.1.0",
+  "description": "A tiny custom configuration module around Winston logger",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Whistle-Group/scout-winston.git"
+  },
+  "keywords": [
+    "winston",
+    "logger",
+    "log",
+    "scout"
+  ],
+  "author": "Tomislav Capan <tomislav.capan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Whistle-Group/scout-winston/issues"
+  },
+  "homepage": "https://github.com/Whistle-Group/scout-winston#readme"
+}
