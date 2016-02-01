@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/Whistle-Group/scout-winston/issues"
   },
-  "homepage": "https://github.com/Whistle-Group/scout-winston#readme"
+  "homepage": "https://github.com/Whistle-Group/scout-winston#readme",
+  "dependencies": {
+    "winston": "^2.1.1"
+  }
 }
